@@ -8,6 +8,7 @@ A collection of my LeetCode solutions focused on Data Structures and Algorithms.
 | ------- |
 | [0001-two-sum](https://github.com/yashrajsharma0/leetcode-solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/yashrajsharma0/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashrajsharma0/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,5 @@ A collection of my LeetCode solutions focused on Data Structures and Algorithms.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashrajsharma0/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashrajsharma0/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
