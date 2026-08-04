@@ -36,4 +36,12 @@ A collection of my LeetCode solutions focused on Data Structures and Algorithms.
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/yashrajsharma0/leetcode-solutions/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/yashrajsharma0/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/yashrajsharma0/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
