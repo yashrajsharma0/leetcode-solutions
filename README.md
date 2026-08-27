@@ -11,6 +11,7 @@ A collection of my LeetCode solutions focused on Data Structures and Algorithms.
 | [0053-maximum-subarray](https://github.com/yashrajsharma0/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashrajsharma0/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/yashrajsharma0/leetcode-solutions/tree/master/0704-binary-search) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashrajsharma0/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
